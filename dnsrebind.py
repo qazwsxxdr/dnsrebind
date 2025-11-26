@@ -6,7 +6,7 @@ from datetime import datetime
 # Conf
 EXTERNAL_IP = "192.168.100.9"  # Kali
 INTERNAL_IP = "10.143.40.157"    # int IP 
-DOMAIN = "ns1ak.dell.com"
+DOMAIN = "xxxxxxxx" 
 
 # DNS pub forwarding
 UPSTREAM_DNS = [
